@@ -10,3 +10,5 @@ github_username: KeyboardFire
 
 # Build settings
 markdown: kramdown
+
+keep_files: ["_assets"]
