@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Why Linux is just better"
+date: 2014/08/03
+categories: unixandlinux
+---
+
+A lot of people have asked me: Why Ubuntu instead of something more "standard" or "normal" or "*better*" like Windows or OS X?
+
+First, let me get a common thought out of your head: Linux is **NOT** "that thing where you type in commands instead of clicking and stuff." Ubuntu is just as easy and user-friendly to use (after playing around for 30 minutes or so) as other OSs such as Windows or OS X. Yes, there are windows and a mouse cursor, and yes, you can run Chrome and Thunderbird and stuff like that on it.
+
+Anyway, to the list.
+
+- **It's open-source.** This is *the most* important reason why I would use Ubuntu, in my opinion. "Hey look, I made a thing, now I'm selling it for $123" simply isn't as prevalent in the FOSS community. Right from the start, when you install Ubuntu, the Ubuntu Promise guarantees that all of the software on your computer is free and open-source. Thousands of people from all over the world have worked together to make Ubuntu *better*. Nothing's fixed or locked down or held secure from public view by Microsoft or Apple or some other company. And this is the reason that basically the entire rest of the list can even exist.
+
+- **It's limitless.** You have *freedom*. Perhaps as a result of the fact that Linux and Ubuntu are open source, you can do virtually *whatever you want*. Don't like your desktop environment and want to completely change your computer's user interface? Check. Want multiple workspaces / desktops so you can split your work into sections and switch between them seamlessly? Check. If you don't like it, you *can* change it.
+
+- **It's not bogged down by... other stuff.** You can throw away your virus scanner and your bloated, sluggish proprietary software that gets in your way all the time. You're free of all the stuff that Microsoft and Apple shove into your machine because if people don't like it, people get rid of it. Which makes Ubuntu a wonderfully unhampered system that only has the stuff *you want*.
+
+- **It's not *excessively* user-friendly.** Many people say they don't like Linux because it's "not user friendly." You know, the most user friendly thing in the world would be a button that goes "beep" when you press it. It's user-friendly, but it *doesn't do anything useful*. Windows (and OS X especially, but I already said I wouldn't talk about that) is like a button. It's easier to use, but then your productivity plummets. On Ubuntu (and/or Linux), you have power, and you have the ability to use it effortlessly if you spend a few minutes learning how. You don't have to constantly bring up windows one by one when you have multiple workspaces, and you don't have to manually complete tasks that you can automate with a 5-minute bash script. "I wish there was a program to do this" turns into "there is a program to do this, because I just wrote one right now and saved myself an hour of work." And if you don't care about efficiency and don't want shell scripts and workspaces and useful things, there's nobody forcing you to use them, and you can change things you don't like in whatever way you please (see point #2 above).
+
+- **It's great for programmers.** This also goes with the open-source thing, and the Unix mindset, and the argument above. For one thing, package managers are amazing - type a single line of `apt-get install gcc` and there you go, you have gcc. Linux is built by developers, and it was built with developers specifically in mind. With Linux, you don't have to do things the "visual," point-and-click way. You can `cd` and `ls` and tab through directory trees faster than the guy with the fastest mouse in the world. You can build upon the work of others instead of reinventing the wheel because open-source. Things just *work* better. You don't have an anti-virus or icky proprietary software getting in your way. You *have* the power of command line tools like `sed` and `grep` and pipes and streams and you *know* how to use them. I can't even imagine what it would be like if I didn't have command line tools like `grep` (especially since Windows's "search" feature is so terrible). I can `grep` through anything tens and even hundreds of times faster than the point-and-click travesty that is Windows.
+
+- **It's great for non-programmers.** Just because you're not a programmer doesn't mean the above argument doesn't apply to you. You can still learn to harness the power of the shell and scripting and basic programming in less than an hour, and you'll save much, much, *much* more time doing even basic, everyday tasks. Want to delete all .png files in a folder? `rm *.png` can be *hundreds* of times faster than bumbling through a visual interface that simply doesn't work as well for even easy tasks like these.
+
+So those are six of only a few arguments for using Ubuntu / Linux (or rather, not using Windows / OS X) that I needed to get out of my head and somewhere I can link people to. If you like Windows or OS X or something else (?) better, feel free to comment about that below (note: after transferring from Wordpress, comments no longer exist. I'll try to remedy that in the near future).
