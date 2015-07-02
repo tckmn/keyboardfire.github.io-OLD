@@ -5,7 +5,7 @@ date: 2014/08/12
 categories: nethack
 ---
 
-<img src='./img/onlyemail.png' alt='my email made of Nethack monsters' title='my email made of Nethack monsters' />
+<img src='{{ site.url }}/_assets/nethack-email-only-email.png' alt='my email made of Nethack monsters' title='my email made of Nethack monsters' />
 
 Yes, this is a screenshot of my email address, made of Nethack monsters. That was fun!
 
@@ -50,6 +50,6 @@ I didn't end up needing the weapon and the AC, but it's always fun to be overpre
 
 By the way, here's a screenshot of the entire map, if you're wondering:
 
-<img src='./img/entiremap.png' alt='the entire map' title='the entire map' />
+<img src='{{ site.url }}/_assets/nethack-email-entire-map.png' alt='the entire map' title='the entire map' />
 
 Yeah, copy/paste helps.
