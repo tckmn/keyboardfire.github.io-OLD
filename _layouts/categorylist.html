@@ -14,7 +14,11 @@ layout: default
                 <h2>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     {{ post.excerpt }}
-                    <p>Categorized under {{ post.categories }}</p>
+                    <p>Categorized under:
+                        {% for category in post.categories %}
+                            <a href="{{ category | prepend: '/categories/' | prepend: site.baseurl }}">{{ category }}</a>
+                        {% endfor %}
+                    </p>
                 </h2>
             </li>
         {% endfor %}
